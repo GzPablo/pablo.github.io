@@ -188,3 +188,54 @@ a {
     width: 25%;
     text-align: center;
 }
+
+.banner2 {
+    background-image: url("banner-2.jpg");
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.h1bn2 {
+    font-size: 50px;
+    margin-left: 80px;
+}
+
+.pbn2 {
+    font-size: 25px;
+    margin-top: -20px;
+    margin-left: 80px;
+}
+
+.abn2 {
+    background-color: #364142;
+    color: white;
+    padding: 10px;
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.footer {
+    overflow: auto;
+    background-color: #CAEAD5;
+}
+
+.p1footer {
+    float: left;
+    width: 33%;
+    color: #364142;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.p1footer p{
+    margin-bottom: -10px;
+}
+
+.p1footer img{
+    margin-top: 20px;
+}
